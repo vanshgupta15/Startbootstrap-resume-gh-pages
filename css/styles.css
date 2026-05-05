@@ -10970,3 +10970,19 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+/* Icons */
+.skills-icons img {
+    width: 40px;
+    margin: 10px;
+}
+
+/* Coursework badges */
+.course-badges span {
+    display: inline-block;
+    background-color: #0d6efd;
+    color: white;
+    padding: 6px 12px;
+    margin: 5px;
+    border-radius: 20px;
+    font-size: 12px;
+}
